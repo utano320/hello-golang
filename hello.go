@@ -3,6 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Printf("Hello, golang!\n");
+	fmt.Printf("Hello, golang!(dev)\n");
 }
-
